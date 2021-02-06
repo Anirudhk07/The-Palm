@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:the_palm_project/pages/home_pages/home_page1.dart';
 
 void main() {
   runApp(MyApp());
@@ -9,12 +10,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
+      theme: ThemeData.dark(),
       //Pass your page widget for testing
-      home: Scaffold(),
+      home: HomePage1(),
     );
   }
 }
