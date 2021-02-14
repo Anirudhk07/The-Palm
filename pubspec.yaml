@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.1
+  google_fonts: ^1.1.2
+  carousel_slider: ^3.0.0
+  gooey_carousel: ^0.1.2
 
 dev_dependencies:
   flutter_test:
@@ -23,6 +26,7 @@ flutter:
 
   assets:
     - assets/logo/palm.png
+    - assets/Logo.svg
 
   fonts:
     - family: FjallaOne

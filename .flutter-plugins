@@ -1,2 +1,6 @@
 # This is a generated file; do not edit or check into version control.
-integration_test=C:\\src\\flutter\\flutter\\packages\\integration_test\\
+integration_test=C:\\Users\\Dell\\flutter\\packages\\integration_test\\
+path_provider=C:\\Users\\Dell\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.27\\
+path_provider_linux=C:\\Users\\Dell\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_macos=C:\\Users\\Dell\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+8\\
+path_provider_windows=C:\\Users\\Dell\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.4+3\\
